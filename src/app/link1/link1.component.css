@@ -1,0 +1,29 @@
+.reserva{
+    border: 1px solid #dee2e6;
+    padding: 3%;
+}
+.reserva h1{
+    text-align: center;
+    margin:2%;
+}
+
+.alert-warning{
+    text-align:center;
+}
+.reserva input{
+    border: 1px solid #dee2e6;
+    width: 100%;
+    padding: 5px 5px;
+}
+.reserva select{
+    border: 1px solid #dee2e6;
+}
+.espacio-sup{
+    padding-top: 12px;
+}
+.cupo{
+    margin: 3% 0%;
+}
+i.fas.fa-trash-alt {
+    padding-left: 43%;
+}
